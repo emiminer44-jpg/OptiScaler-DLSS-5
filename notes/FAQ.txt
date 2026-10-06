@@ -1,0 +1,3 @@
+/* rev-e9b30c-20261006 */
+FAQ.txt
+check fsr4 watermark unsupported falls to fsr3
